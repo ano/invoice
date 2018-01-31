@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Automate",
-        "meta_descr": "Automation and Integration tool for FFA",
+        "title": "Invoice",
+        "meta_descr": "Invoicing tool to keep track invoice payments",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
