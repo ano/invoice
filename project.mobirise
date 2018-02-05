@@ -90,7 +90,7 @@
           },
           "title": "Invoice",
           "text": "Invoice lets you keep track of your customers invoices. It integrates with our other tools and lets you automate the invoicing process.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.dropbox.com/s/sn6yc7zpmzuthfj/Install-FFA-Invoice-System-win32-x64-1.0.0-win32-x64.exe?dl=1\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.dropbox.com/s/sn6yc7zpmzuthfj/Install-FFA-Invoice-System-win32-x64-1.0.0-win32-x64.exe?dl=1\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
           ],
@@ -142,7 +142,7 @@
           },
           "title": "Customers",
           "text": "Create, manage and track your customers. Then you can invoice them directly via the platform.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://blog.waveapps.com/import-customer-lists-via-csv/\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-a\" data-toolbar=\"-mbrBtnMove\">Invoice Builder</a>",
           "_tags": [
             "Theme"
           ],
@@ -194,7 +194,7 @@
           },
           "title": "Invoice Builder",
           "text": "Invoice builder lets you create an invoice digitally to send to customers. This process can be automated.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://support.waveapps.com/hc/en-us/articles/214268003-Invoice-like-a-pro\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-g\" data-toolbar=\"-mbrBtnMove\">Automate</a>",
           "_tags": [
             "Theme"
           ],
@@ -246,7 +246,7 @@
           },
           "title": "Automation",
           "text": "The invoice process can be automated with <b><a href=\"https://ano.github.io/automate/\" target=\"_blank\">Automate</a> </b>and <b><a href=\"https://ano.github.io/workflow/\" target=\"_blank\">Workflow&nbsp;</a></b>so that invoices can be sent out automatically to customers when a workflow reaches a certain stage.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.machform.com/features-fields#conditional-logic\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Invoice Workflow</a>",
           "_tags": [
             "Theme"
           ],
@@ -298,7 +298,7 @@
           },
           "title": "Invoice Workflow",
           "text": "Track and Manage the invoicing workflow as it moves through to payment.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://support.waveapps.com/hc/en-us/articles/214268003-Invoice-like-a-pro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Customise Invoice</a> ",
           "_tags": [
             "Theme"
           ],
@@ -350,7 +350,7 @@
           },
           "title": "Customise",
           "text": "Customise the designs for your invoices to mathch the look and feel of your organisations brand.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://zapier.com/help/task-history/\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">More tools</a>",
           "_tags": [
             "Theme"
           ],
